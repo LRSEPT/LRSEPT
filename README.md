@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Amir Loris Ben El Ghali!
 
-🎓 I'm a Tunisian student currently enrolled in a **double degree (convention)** between **École Polytechnique de Tunisie** and **Télécom Paris**, where I was recently admitted to the prestigious **Master in Mathématiques, Vision et Apprentissage (MVA)**.   
+🎓 I'm a Tunisian student currently enrolled in a **double degree program** between **École Polytechnique de Tunisie** and **Télécom Paris**, where I was recently admitted to the prestigious **Master in Mathématiques, Vision et Apprentissage (MVA)**.   
 💡 My academic and research interests lie at the intersection of **Artificial Intelligence**, particularly in the areas of **Computer Vision** and **Natural Language Processing**.
 
 ---
